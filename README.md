@@ -5,7 +5,7 @@ Analyze mining accident data to identify high-risk mines, accident causes, and s
 
 ### Dataset  
 - Public MSHA mining accident dataset (exported via Power BI).  
-- ~20,000+ accident records after filtering and cleaning.  
+- ~10,000+ accident records after filtering and cleaning.  
 - Key fields: mine ID, operator name, state, coal/metal indicator, accident date, year, quarter, degree of injury, number of injuries, days lost/restricted, accident type, classification, activity, underground location, mining method, equipment, occupation, and total experience.
 
 ### Database & Schema  
